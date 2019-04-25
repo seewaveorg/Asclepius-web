@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: Asclepius
+nav:
+    - Home: index.md
+    - About: about.md
+theme: windmill
+#theme: readthedocs
